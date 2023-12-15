@@ -18,5 +18,5 @@ requests==2.24.0
 tqdm==4.51.0
 urllib3==1.25.11
 wincertstore==0.2
-firebase_admin
-streamlit
+firebase-admin
+streamlit==1.29.0
